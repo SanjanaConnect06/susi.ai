@@ -138,10 +138,9 @@ const SidebarItem = styled(MenuItem)`
 `;
 
 const Sidebar = styled.div`
-  width: 15%;
+  width: 250px;
   min-width: 200px;
   max-width: 250px;
-  overflow-x: hidden;
   display: block;
   z-index: 2;
   flex: 1 1 0;
